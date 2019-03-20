@@ -32,4 +32,10 @@ As a global organization, we process information we collect, including personal 
 
 For question or requests (such as copies, removals, etc.) regarding data retained as part of the functioning of the app please contact:
 
+Cristi Colony
+Maximo Project Manager
+IBM Watson Internet of Things
+email: ccolony@us.ibm.com
+
+
 V20180905-m
