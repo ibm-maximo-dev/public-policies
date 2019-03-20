@@ -1,4 +1,4 @@
-###PRIVACY POLICY
+PRIVACY POLICY
 
 This IBM Mobile Application statement of our Privacy Policy (“Mobile Privacy Policy”) explains the data IBM may collect on behalf of the entity that entitles you to use this IBM mobile application (or “App”) used in connection with an IBM product offering. This Mobile Privacy Policy only applies to the information IBM may collect on behalf of that entity. It does not apply to the information that entity may collect for its own use.
 Downloading, accessing, or otherwise using the App indicates that you have read this Mobile Privacy Policy and consent to its terms. If you do not consent to the terms of this Mobile Privacy Policy, do not proceed to download, access, or otherwise use the App.
